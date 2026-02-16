@@ -1,0 +1,29 @@
+Q.1 Research and provide three real-world applications where C programming 
+is extensively used, such as in embedded systems, operating systems, or game 
+development. 
+Ans. C programming is extensively used in many real-world applications due to 
+its efficiency, low-level hardware access, and portability. Here are three major 
+domains where C is widely employed
+
+
+1. Embedded Systems 
+C is the preferred language for developing software and drivers for embedded 
+systems because it interacts closely with hardware. It is used in 
+microcontrollers, consumer electronics, automotive systems, and IoT devices 
+where resource constraints require efficient, low-level programming. 
+
+
+2. Operating Systems 
+Many foundational operating systems are written in C, including UNIX, Linux, 
+Microsoft Windows, and parts of Android. Its low-level capabilities allow direct 
+manipulation of hardware resources, memory management, and process control, 
+making it ideal for system programming. 
+
+
+3. Game Development and Graphics Software 
+C is used to build –performance-critical game engines and graphics 
+applications. Its speed advantage over interpreted languages is crucial for real
+time rendering, physics simulations, and animation. Software like Adobe 
+Photoshop and parts of game engines leverage C for core functionalities.
+
+
