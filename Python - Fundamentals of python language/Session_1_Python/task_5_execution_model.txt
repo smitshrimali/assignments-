@@ -1,0 +1,34 @@
+Python Execution Model
+
+Python is generally an interpreted language. When we run a Python program,
+the Python interpreter reads the code, compiles it into bytecode, and then
+executes that bytecode using the Python Virtual Machine (PVM).
+
+Example:
+print("Hello World")
+
+The Python interpreter executes this program and displays:
+Hello World
+
+
+C Execution Model
+
+C is a compiled language. A C program is first compiled by a compiler into
+machine code. The machine code can then be executed directly by the computer.
+
+Example:
+printf("Hello World");
+
+The C compiler converts the source code into an executable program.
+
+
+Java Execution Model
+
+Java uses both compilation and interpretation. Java source code is compiled
+into bytecode, which is stored in a .class file. The Java Virtual Machine
+(JVM) then executes the bytecode.
+
+Example:
+System.out.println("Hello World");
+
+The Java compiler converts the source code into bytecode, and the JVM runs it.
